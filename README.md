@@ -1,2 +1,5 @@
 # website
-a simple html. website with a small javascript project in it
+
+A simple html. website.
+
+This is just a test to try out how git and github work
