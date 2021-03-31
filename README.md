@@ -1,4 +1,4 @@
 # website
 
-A simple html. website. The first article link leads to a javascript project
+This is a html portfolio site that has links/pages to my projects.
 
